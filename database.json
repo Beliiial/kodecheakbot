@@ -1,0 +1,12 @@
+{
+  "settings": {
+    "channel_id": "@allanimefilms",
+    "channel_url": "https://t.me/allanimefilms",
+    "welcome_text": "👋 <b>Добро пожаловать!</b>\n\n🎬 Я помогу найти аниме, фильмы и манхву/мангу по коду.\n\n📝 Отправь мне код для поиска!",
+    "welcome_photo": "AgACAgEAAxkBAAMLaUBMLgABmFbOsW4k5MLESxC5Kk0hAAJeC2sbX2cBRvx0HmihCTZfAQADAgADeAADNgQ"
+  },
+  "admins": [
+    8429170216
+  ],
+  "content": {}
+}
